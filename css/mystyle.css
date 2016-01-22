@@ -1,0 +1,28 @@
+
+ body {
+     font-size: 14px;
+     font-family: "Times New Roman";
+     background-color: lightskyblue;
+ }
+
+ h1{ 
+     text-align: center;
+ }
+
+ h2 {
+  color: navy;
+  font-weight: bolder;
+  font-style: italic;
+  background-color: gold;
+  margin: 10px;
+ }
+
+ p {
+  color: maroon;
+  cursor: crosshair;
+ }
+
+ strong {
+     font-style: italic;
+     text-transform: capitalize;
+ }
