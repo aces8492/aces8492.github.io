@@ -1,0 +1,26 @@
+@charset "UTF-8";
+body {
+  margin: auto;
+  width: 50em;
+}
+h1 {
+  color: #00979D;
+}
+h2 {
+  color: #00979D;
+  border-left: 9px solid #00979D;
+  border-bottom: 1px solid #00979D;
+  padding: 2px 0 2px 0.5em;
+}
+h3 {
+  color: #EC9122;
+}
+a:link {
+  color: #00979D;
+}
+a:visited {
+  color: #00979D;
+}
+a:hover {
+  color: #00979D;
+}
